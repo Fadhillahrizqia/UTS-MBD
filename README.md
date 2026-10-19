@@ -1,9 +1,9 @@
-# UTS Manajemen Basis Data - PostgreSQL + pgAdmin4 via Docker
+# UTS Manajemen Basis Data 
 
 Nama: Fadhillah Rizqia Arfin (NIM 1237050056)
 
 ## Menjalankan
-1. `cp .env.example .env`, lalu isi password sesuai soal
+1. `cp .env.example .env`, 
 2. `docker compose up -d`
 3. Jalankan skrip di folder `sql/` berurutan (01, 02, 03) sebagai user `postgres`
 
